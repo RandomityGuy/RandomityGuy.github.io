@@ -24,10 +24,10 @@ A working converter to convert Obj model files to Marble Blast compatible Dif in
 A tool to convert obj files to constructor exportable csx files. Constructor was never trash. People just didnt know how to utilize its full potential. This tool maximizes its capability and allows it to export whatever twists and turns you give it to it.
 
 ## [Marble Mission Manager](https://github.com/RandomityGuy/Marble-Mission-Manager)
-This is just a CLI tool for browsing http://cla.higuy.me. APT style, with mission installation features and such.
+This is just a CLI tool for browsing [http://cla.higuy.me](http://cla.higuy.me). APT style, with mission installation features and such.
 
 ## [ClaSearcher](https://github.com/RandomityGuy/ClaSearcher)
-GUI tool to browse the marble blast custom level archive at http://cla.higuy.me. Inspired by Atmosphir's own level browser.
+GUI tool to browse the marble blast custom level archive at [http://cla.higuy.me](http://cla.higuy.me). Inspired by Atmosphir's own level browser.
 
 ## [Missioneer](https://github.com/RandomityGuy/Missioneer)
 A C# Library to generate and parse Marble Blast Mis files. Well I can't guarantee it can load every single mis because of the possibility that it contains custom code. It's the first Marble Blast project I have ever worked on
@@ -40,4 +40,4 @@ I tried my hand on creating a simple easy to use 3D engine for quick prototypes 
 
 # Contact Me
 I have a discord server which you can use to talk to me:  
-https://discord.gg/GsmTVQQAhG
+[https://discord.gg/GsmTVQQAhG](https://discord.gg/GsmTVQQAhG)
