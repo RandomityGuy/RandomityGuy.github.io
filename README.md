@@ -1,5 +1,5 @@
 # About Me
-Hello I'm just some random internet guy codes random stuff during boredom. And that lead to me creating some amazing shit.
+Hello I'm just some random internet guy that codes random stuff during boredom. And that lead to me creating some amazing shit.
 
 # Works
 
